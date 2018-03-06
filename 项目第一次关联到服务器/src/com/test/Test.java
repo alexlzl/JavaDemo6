@@ -6,4 +6,8 @@ package com.test;
  * http://blog.csdn.net/mylizhimin/article/details/53415686
  */
 public class Test {
+
+    public void login(){
+
+    }
 }
